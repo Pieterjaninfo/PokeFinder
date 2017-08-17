@@ -1,5 +1,6 @@
 # Location lister for pokemons in Pokemon Ranger (nds)
-This program allows the user to pretty print all the capture locations of any desired pokemons of the game Pokemon Ranger for the nds.
+This program allows the user to pretty print all the capture locations of all desired pokemons of the game Pokemon Ranger for the nds.
+Capture locations were grabbed from [here](https://www.serebii.net/ranger/pokemon.shtml).
 
 ##### Requirements
 * Python 3
@@ -10,7 +11,7 @@ This program allows the user to pretty print all the capture locations of any de
 
 
 ##### To be added:
-* ~~Proper formating.~~
-* ~~Write reuslt to .txt file.~~
+* ~~Proper formating~~
+* ~~Write result to .txt file~~
 * Capture locations for Pokemon Ranger - Shadows of Almia
 * Capture locations for Pokemon Ranger - Guardian Signs
