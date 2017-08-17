@@ -1,0 +1,210 @@
+R-001		Bulbasaur	Grass	Cross	Grass	Lila Forest (requires Cut)
+R-002		Ivysaur	Grass	Cross	Grass	Lila Forest
+R-003		Venusaur	Grass	None	Grass	Lila Forest (requires Cut)
+R-004		Bellsprout	Grass	None	Grass	Lila Forest, Croca Tunnel
+R-005		Weepinbell	Grass	None	Poison	Lila Forest
+R-006		Victreebel	Grass	None	Poison	Lila Forest
+R-007		Chikorita	Grass	None	Grass	Lila Forest
+R-008		Bayleef	Grass	Cut x 2	Grass	Olive Jungle
+R-009		Meganium	Grass	Break	Grass	Olive Jungle
+R-010		Hoppip	Grass	None	Grass	Lila Forest
+R-011		Mudkip	Water	Water	Water	Lila Forest
+R-012		Marshtomp	Ground	Water x 2	Water	Lila Forest
+R-013		Swampert	Ground	Water x 3	Water	Lila Forest
+R-014		Slowpoke	Water	Water	Water	Kisara Plains (Plains Capture Challenge)
+R-015		Torchic	Fire	Burn	Fire	Lila Forest
+R-016		Combusken	Fire	Burn x 2	Fire	Lila Forest (requires Cut)
+R-017		Blaziken	Fire	Burn x 3	Fire	East Road
+R-018		Rapidash	Fire	Burn x 3	Fire	Kisara Plains (Plains Capture Challenge)
+R-019		Cyndaquil	Fire	Burn	Fire	Lila Forest
+R-020		Quilava	Fire	Burn x 2	Fire	Cycla Mountain Range
+R-021		Typhlosion	Fire	Burn x 3	Fire	Lila Forest (requires Cut)
+R-022		Pichu	Electric	Charge	Electric	Everywhere
+R-023		Pikachu	Electric	Charge x 2	Electric	Everywhere
+R-024		Raichu	Electric	Charge x 3	Electric	Everywhere
+R-025		Beedrill	Bug	Break	Poison	Lila Forest
+R-026		Ralts	Psychic	None	Psychic	Cycla Mountain Range
+R-027		Kirlia	Psychic	None	Psychic	Kisara Plains (Plains Capture Challenge)
+R-028		Gardevoir	Psychic	None	Psychic	Cycla Mountain Range
+R-029		Abra	Psychic	None	Psychic	Kisara Plains (Plains Capture Challenge)
+R-030		Spoink	Psychic	None	Psychic	Kisara Plains (Plains Capture Challenge)
+R-031		Nincada	Ground	Cut	Bug	Lila Forest
+R-032		Ninjask	Bug	None	Flying	Lila Forest (tackle from trees)
+R-033		Shedinja	Bug	None	Ghost	Lila Forest
+R-034		Phanpy	Ground	Tacke	Ground	Lila Forest, Olive Jungle
+R-035		Donphan	Ground	Tackle x 2	Ground	Fiore Temple
+R-036		Taillow	Flying	Gust	Flying	Lila Forest, East Road
+R-037		Swellow	Flying	Gust x 2	Flying	Lila Forest
+R-038		Dragonite	Flying	None	Flying	Only capture once before using Dragonite Bus
+R-039		Spearow	Flying	Gust	Flying	Kisara Plains (Plains Capture Challenge)
+R-040		Fearow	Flying	None	Flying	Kisara Plains (Plains Capture Challenge)
+R-041		Doduo	Flying	None	Flying	Kisara Plains (Plains Capture Challenge)
+R-042		Dodrio	Flying	None	Flying	Kisara Plains (Plains Capture Challenge)
+R-043		Scyther	Bug	Cut x 3	Flying	Lila Forest
+R-044		Scizor	Steel	Cut x 3	Bug	Lila Forest
+R-045		Skarmory	Steel	None	Flying	Kisara Plains (Plains Capture Challenge)
+R-046		Murkrow	Dark	None	Dark	Lila Forest (tackle from trees)
+R-047		Zigzagoon	Normal	None	None	Lila Forest
+R-048		Linoone	Normal	Tackle x 2	None	Lila Forest
+R-049		Tauros	Normal	Tackle x 3	None	Kisara Plains (Plains Capture Challenge)
+R-050		Paras	Bug	Cut	Grass	Croca Tunnel
+R-051		Parasect	Bug	Cut	Grass	Croca Tunnel (requires Gust x 2)
+R-052		Poliwag	Water	Water	Water	Croca Tunnel
+R-053		Poliwhirl	Water	Water x 2	Water	Croca Tunnel, Panulla Cave, Cycla Mountain Range
+R-054		Poliwrath	Water	Water x3	Water	Jungle Ruins (requires Cut), Panulla Cave
+R-055		Politoed	Water	Water x 3	Water	Only during missions
+R-056		Magnemite	Electric	Charge	Electric	Everywhere
+R-057		Magneton	Electric	Charge x 2	Electric	Everywhere
+R-058		Zubat	Poison	None	Poison	Croca Tunnel
+R-059		Golbat	Poison	Gust x 2	Poison	Panulla Cave
+R-060		Crobat	Poison	None	Poison	Panulla Cave (requires Burn x 3)
+R-061		Diglett	Ground	None	Ground	Croca Tunnel
+R-062		Dugtrio	Ground	None	Ground	Croca Tunnel (requires Cross + Break x 3)
+R-063		Rhydon	Ground	Break x 3	Ground	Jungle Ruins
+R-064		Geodude	Ground	Break	Rock	Croca Tunnel (may require Water)
+R-065		Graveler	Ground	Break x 2	Rock	Croca Tunnel, Jungle Ruins (may require Water)
+R-066		Golem	Ground	Break x 3	Rock	Cycla Mountain Range, Fiore Temple
+R-067		Plusle	Electric	None	Paralyze	At Fall City (female player) or after end credits (male player)
+R-068		Minun	Electric	None	Paralyze	At Fall City (male player) or after end credits (female player)
+R-069		Tangela	Grass	Cross	Grass	Underground Waterways, Cycla Mountain Range
+R-070		Krabby	Water	Water	Water	Fall City (seaport)
+R-071		Corphish	Water	Water	Water	Underground Waterways
+R-072		Crawdaunt	Dark	Cut x 3	Water	Underground Waterways (require Cut x 2)
+R-073		Totodile	Water	Water	Water	Underground Waterways
+R-074		Croconaw	Water	Water x 2	Water	Underground Waterways
+R-075		Feraligatr	Water	Water x 3	Water	Underground Waterways (require Cross + Burn x 2)
+R-076		Squirtle	Water	Water	Water	Underground Waterways (require Cross)
+R-077		Wartortle	Water	Water x 2	Water	Lila Forest (require Break x 2)
+R-078		Blastoise	Water	Water	Water	Fall City (seaport underground chamber)
+R-079		Voltorb	Electric	Charge	Electric	Everywhere
+R-080		Machop	Fighting	Break	Fighting	Croca Tunnel
+R-081		Machoke	Fighting	Break x 2	Fighting	Night Duty Factory
+R-082		Machamp	Fighting	Break x 3	Fighting	Croca Tunnel
+R-083		Makuhita	Fighting	Tackle x 2	Fighting	Fall City
+R-084		Hariyama	Fighting	Break x 3	Fighting	Croca Tunnel
+R-085		Meditite	Psychic	Break	Fighting	Underground Waterways
+R-086		Medicham	Psychic	Break x 2	Fighting	Panulla Cave, Fiore Temple
+R-087		Grimer	Poison	None	Poison	Underground Waterways
+R-088		Muk	Poison	None	Poison	Underground Waterways
+R-089		Koffing	Poison	None	Poison	Underground Waterways
+R-090		Drowzee	Psychic	None	Psychic	Underground Waterways
+R-091		Hypno	Psychic	None	Psychic	Night Duty Factory
+R-092		Mr. Mime	Psychic	None	Psychic	Night Duty Factory
+R-093		Pinsir	Bug	Cut x 2	Bug	Night Duty Factory
+R-094		Gastly	Ghost	None	Ghost	Night Duty Factory
+R-095		Haunter	Ghost	None	Ghost	Night Duty Factory
+R-096		Gengar	Ghost	None	Ghost	Fiore Temple
+R-097		Snubbull	Normal	Tackle	None	Fall City
+R-098		Skitty	Normal	None	None	Fall City
+R-099		Meowth	Normal	Cut	None	Fall City
+R-100		Jigglypuff	Normal	None	None	Fall City
+R-101		Rattata	Normal	Tackle	None	Underground Waterways
+R-102		Raticate	Normal	Cut x 2	None	Underground Waterways
+R-103		Porygon	Normal	None	None	Night Duty Factory (invisible)
+R-104		Kecleon	Normal	None	None	Between Fall City and Night Duty Factory (invisible)
+R-105		Snorlax	Normal	None	None	Cycla Mountain Range (requires capturing all other 209 Pokémon)
+R-106		Lapras	Ice	None	Water	Fall City seaport (no capture needed)
+R-107		Horsea	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-108		Seadra	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-109		Kingdra	Water	Water x 3	Water	Saffra Sea (Sea Capture Challenge)
+R-110		Goldeen	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-111		Seaking	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-112		Staryu	Water	Flash	Water	Saffra Sea (Sea Capture Challenge)
+R-113		Starmie	Water	None	Psychic	Saffra Sea (Sea Capture Challenge)
+R-114		Remoraid	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-115		Octillery	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-116		Mantine	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-117		Carvanha	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-118		Sharpedo	Water	None	Dark	Saffra Sea (Sea Capture Challenge)
+R-119		Wailmer	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-120		Luvdisc	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-121		Psyduck	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-122		Wingull	Water	None	Water	Fall City (seaport)
+R-123		Pelipper	Water	None	Water	Saffra Sea (Sea Capture Challenge)
+R-124		Magikarp	Water	None	Water	Saffra Sea (Sea Capture Challenge), Cycla Mountain Range
+R-125		Gyarados	Water	None	Water	Only during missions
+R-126		Oddish	Grass	Cut	Grass	Olive Jungle (require Gust)
+R-127		Gloom	Grass	Cut	Grass	Outside Jungle Ruins (require Gust x 2)
+R-128		Vileplume	Grass	None	Grass	Cycla Mountain Range (require Gust x 3)
+R-129		Treecko	Grass	Cut	Grass	Olive Jungle
+R-130		Grovyle	Grass	Cut x 2	Grass	Olive Jungle (requires Water), Outside Jungle Ruins, Fiore Temple
+R-131		Sceptile	Grass	Cut x 3	Grass	Jungle Ruins (require Break x 2)
+R-132		Lotad	Water	None	Water	Olive Jungle (may require Gust)
+R-133		Lombre	Water	None	Water	Olive Jungle (require Water + Cut)
+R-134		Ludicolo	Water	None	Water	Fall City, Olive Jungle
+R-135		Numel	Fire	Burn	Fire	Jungle Ruins
+R-136		Camerupt	Fire	Burn x 3	Fire	Jungle Ruins (requires Water x 3)
+R-137		Magmar	Fire	Burn x 2	Fire	Jungle Ruins
+R-138		Slugma	Fire	Burn	Fire	Jungle Ruins
+R-139		Magcargo	Fire	Burn x 2	Fire	Jungle Ruins
+R-140		Charmander	Fire	Burn	Fire	Jungle Ruins
+R-141		Charmeleon	Fire	Burn x 2	Fire	Jungle Ruins (requires Water x 3)
+R-142		Charizard	Fire	Burn x 3	Fire	Only during missions
+R-143		Torkoal	Fire	Burn x 2	Fire	Croca Tunnel (require Water)
+R-144		Growlithe	Fire	None	Fire	Night Duty Factory
+R-145		Arcanine	Fire	Burn x 3	Fire	Jungle Ruins
+R-146		Electrike	Electric	Charge	Electric	Everywhere
+R-147		Manectric	Electric	Charge x 2	Electric	Everywhere
+R-148		Heracross	Bug	Tackle x 3	Fighting	Olive Jungle
+R-149		Mankey	Fighting	Break	Fighting	Olive Jungle (require Tackle x 3)
+R-150		Primeape	Fighting	Break x 2	Fighting	Olive Jungle (require Tackle x 3)
+R-151		Ekans	Poison	None	Poison	Olive Jungle (jump out from bushes)
+R-152		Arbok	Poison	None	Poison	Cycla Mountain Range
+R-153		Venonat	Bug	None	Poison	Olive Jungle
+R-154		Wurmple	Bug	None	Bug	Olive Jungle
+R-155		Silcoon	Bug	None	Bug	Olive Jungle (tackle from trees)
+R-156		Beautifly	Bug	None	Flying	Olive Jungle
+R-157		Spinarak	Bug	None	Bug	Lila Forest, Olive Jungle
+R-158		Ariados	Bug	None	Bug	Olive Jungle, Fiore Temple
+R-159		Flygon	Dragon	Gust x 3	Ground	Only during missions
+R-160		Gligar	Ground	Cut	Ground	Olive Jungle, Cycla Mountain Range
+R-161		Houndoom	Dark	Burn  x 2	Dark	Jungle Ruins
+R-162		Slakoth	Normal	Cut	None	Olive Jungle (tackle from trees)
+R-163		Vigoroth	Normal	Cut x 2	Normal	Olive Jungle
+R-164		Slaking	Normal	Cut x 3	Normal	Outside Jungle Ruins
+R-165		Bagon	Dragon	Tackle	None	Only during missions
+R-166		Shelgon	Dragon	Tackle x 2	None	Only during missions
+R-167		Salamence	Dragon	Break x 3	Flying	Only during missions
+R-168		Jynx	Psychic	None	Psychic	Panulla Cave
+R-169		Solrock	Rock	None	Psychic	Panulla Cave
+R-170		Wobbuffet	Psychic	None	Psychic	Panulla Cave (requires Break x 2)
+R-171		Dusclops	Ghost	None	Ghost	Panulla Cave
+R-172		Swinub	Ground	Tackle	Ice	Panulla Cave
+R-173		Piloswine	Ground	Tackle x 3	Ice	Panulla Cave, Cycla Mountain Range
+R-174		Snorunt	Ice	Break	Ice	Panulla Cave
+R-175		Glalie	Ice	None	Ice	Panulla Cave
+R-176		Whismur	Normal	None	Normal	Panulla Cave
+R-177		Loudred	Normal	None	Normal	Panulla Cave
+R-178		Exploud	Normal	None	Normal	Panulla Cave
+R-179		Steelix	Steel	None	Ground	Only during missions
+R-180		Seedot	Grass	Tackle	Grass	Cycla Mountain Range
+R-181		Nuzleaf	Dark	Gust	Grass	Cycla Mountain Range
+R-182		Shiftry	Dark	Gust x 2	Grass	Cycla Mountain Range
+R-183		Vaporeon	Water	Water x 2	Water	Fiore Temple
+R-184		Flareon	Fire	Burn x 2	Fire	Fiore Temple
+R-185		Jolteon	Electric	Charge x 2	Electric	Fiore Temple
+R-186		Espeon	Psychic	None	Psychic	Fiore Temple
+R-187		Umbreon	Dark	None	Dark	Fiore Temple
+R-188		Electabuzz	Electric	Charge x 3	Electric	Team Go-Go Headquarters
+R-189		Swalot	Poison	None	Poison	Fiore Temple
+R-190		Beldum	Steel	Tackle	Psychic	Jungle Ruins, Team Go-Go Headquarters
+R-191		Metang	Steel	Tackle x 2	Psychic	Team Go-Go Headquarters
+R-192		Metagross	Steel	Break x 3	Psychic	Tea, Go-Go Headquarters
+R-193		Larvitar	Ground	Cut	Rock	Cycla Mountain Range
+R-194		Pupitar	Ground	None	Rock	Cycla Mountain Range
+R-195		Tyranitar	Rock	Break x 3	Dark	Team Go-Go Headquarters
+R-196		Swablu	Flying	Gust	Flying	Cycla Mountain Range
+R-197		Altaria	Dragon	Gust x 3	Flying	Cycla Mountain Range
+R-198		Aerodactyl	Rock	None	Flying	Fiore Temple
+R-199		Sneasel	Dark	Cut x 2	Dark	Panulla Cave, Cycla Mountain Range
+R-200		Absol	Dark	Cut x 3	Dark	Panulla Cave (requires Burn x 3)
+R-201		Kangaskhan	Normal	Break x 3	None	Cycla Mountain Range (requires Break x 3)
+R-202		Entei	Fire	Burn x 3	Fire	Fiore Temple (via Drowzee Man)
+R-203		Raikou	Electric	Charge x 3	Electric	Fiore Temple (via Drowzee Man)
+R-204		Suicune	Water	Water x 3	Water	Fiore Temple (via Drowzee Man)
+R-205		Regirock	Rock	None	Rock	Cycla Mountain Range (requires 2 Break x 3 + Water + Fire x 3)
+R-206		Regice	Ice	None	Ice	Panulla Cave (requires Fire x 3 + Break x 3 + Cross)
+R-207		Registeel	Steel	Break x 3	None	Croca Tunnel (requires 2 Cross + Cut x 2 + 4 Break x 2)
+R-208		Kyogre	Water	None	Water	Only during missions
+R-209		Groudon	Ground	None	Ground	Only during missions
+R-210		Rayquaza	Dragon	None	Flying	Only during missions

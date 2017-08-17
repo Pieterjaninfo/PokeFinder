@@ -1,0 +1,37 @@
+207:  Registeel - Croca Tunnel (requires 2 Cross + Cut x 2 + 4 Break x 2)
+ 62:    Dugtrio - Croca Tunnel (requires Cross + Break x 3)
+ 28:  Gardevoir - Cycla Mountain Range
+128:  Vileplume - Cycla Mountain Range (require Gust x 3)
+205:   Regirock - Cycla Mountain Range (requires 2 Break x 3 + Water + Fire x 3)
+201: Kangaskhan - Cycla Mountain Range (requires Break x 3)
+105:    Snorlax - Cycla Mountain Range (requires capturing all other 209 Pokémon)
+145:   Arcanine - Jungle Ruins
+131:   Sceptile - Jungle Ruins (require Break x 2)
+141: Charmeleon - Jungle Ruins (requires Water x 3)
+ 14:   Slowpoke - Kisara Plains (Plains Capture Challenge)
+ 18:   Rapidash - Kisara Plains (Plains Capture Challenge)
+ 29:       Abra - Kisara Plains (Plains Capture Challenge)
+ 40:     Fearow - Kisara Plains (Plains Capture Challenge)
+ 41:      Doduo - Kisara Plains (Plains Capture Challenge)
+ 42:     Dodrio - Kisara Plains (Plains Capture Challenge)
+ 45:   Skarmory - Kisara Plains (Plains Capture Challenge)
+ 95:    Haunter - Night Duty Factory
+103:    Porygon - Night Duty Factory (invisible)
+  9:   Meganium - Olive Jungle
+126:     Oddish - Olive Jungle (require Gust)
+209:    Groudon - Only during missions
+208:     Kyogre - Only during missions
+210:   Rayquaza - Only during missions
+127:      Gloom - Outside Jungle Ruins (require Gust x 2)
+206:     Regice - Panulla Cave (requires Fire x 3 + Break x 3 + Cross)
+123:   Pelipper - Saffra Sea (Sea Capture Challenge)
+107:     Horsea - Saffra Sea (Sea Capture Challenge)
+108:     Seadra - Saffra Sea (Sea Capture Challenge)
+115:  Octillery - Saffra Sea (Sea Capture Challenge)
+116:    Mantine - Saffra Sea (Sea Capture Challenge)
+120:    Luvdisc - Saffra Sea (Sea Capture Challenge)
+121:    Psyduck - Saffra Sea (Sea Capture Challenge)
+119:    Wailmer - Saffra Sea (Sea Capture Challenge)
+192:  Metagross - Tea, Go-Go Headquarters
+ 75: Feraligatr - Underground Waterways (require Cross + Burn x 2)
+ 76:   Squirtle - Underground Waterways (require Cross)
